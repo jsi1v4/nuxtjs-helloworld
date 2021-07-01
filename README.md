@@ -1,5 +1,7 @@
 # Nuxtjs Hello World
 
+Nuxtjs studies and testings.
+
 ## Build Setup
 
 ```bash
